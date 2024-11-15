@@ -60,7 +60,8 @@ El mensaje proporcionado con `-m` es importante porque sirve como una descripci�
 
 Es recomendable escribir mensajes claros y descriptivos para que cualquiera que revise el historial entienda rápidamente los cambios realizados. Ejemplo de un buen mensaje de commit:
 
-```bash
+bash
+
 git commit -m "Corrige el error de validación en el formulario de registro"
 
 # Uso del Comando `git push`
