@@ -80,7 +80,6 @@ El comando `git push` se utiliza para **subir los commits locales** a un reposit
 
 La sintaxis general de `git push` es:
 
-```bash
 git push <nombre-remoto> <nombre-rama>
 
 # Uso del Comando `git pull`
